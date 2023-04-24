@@ -48,5 +48,4 @@ while(x=="y"):
 
     x=input("Beli barang lain?(y=iya,selain itu dianggap tidak) ")  
   
-
 print("Jumlah uang yang harus anda bayar: ", harga_akhir)
